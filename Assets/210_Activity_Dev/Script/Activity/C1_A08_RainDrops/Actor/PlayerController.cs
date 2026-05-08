@@ -1,0 +1,55 @@
+using DoDoEng.Common;
+using UnityEngine;
+using UnityEngine.EventSystems;
+
+namespace DoDoEng.Activity.C1_A08
+{
+    public class PlayerController : MonoBehaviour, IPointerDownHandler, IPointerUpHandler, IPointerMoveHandler
+    {
+        // Methods
+        public void EnableInteraction(bool enable)
+        {
+            LOG.Info($"EnableInteraction() | {enable}", this);
+
+            cg.blocksRaycasts = enable;
+        }
+
+
+
+        // Fields : caching
+        private CanvasGroup cg_ = null;
+        private CanvasGroup cg => cg_ ??= gameObject.AddComponent<CanvasGroup>();
+
+        // Fields
+        private bool isDown = false;
+
+
+
+        // Unity Messages
+        private void Awake()
+        {
+            cg.blocksRaycasts = false;
+        }
+        private void Start()
+        {
+        }
+
+
+
+        // Interface : IPointerDownHandler, IPointerUpHandler, IPointerMoveHandler
+        void IPointerDownHandler.OnPointerDown(PointerEventData eventData)
+        {
+            isDown = true;
+            Player.ActivePlayer?.MoveTo(eventData.position);
+        }
+        void IPointerUpHandler.OnPointerUp(PointerEventData eventData)
+        {
+            isDown = false;
+        }
+        void IPointerMoveHandler.OnPointerMove(PointerEventData eventData)
+        {
+            if (isDown)
+                Player.ActivePlayer?.MoveTo(eventData.position);
+        }
+    }
+}

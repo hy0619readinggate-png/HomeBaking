@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 79e9e6895cb3dff40bb81d0bbe8f2950
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - SD RG GothicNeoRound 01 Rg
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: ecec2dee8f325c245a8746aa0d335cc2, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

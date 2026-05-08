@@ -1,0 +1,5 @@
+* HIDODO에서 사용되는 폰트 설명.
+   - SDRGGothicNeoRound-bBd SDF : 학습에 사용되는 영어 전용
+      > 학습에 사용되는 영어는 해당 폰트만 사용해야 합니다!!!
+   - NanumSquareRoundOTFEB SDF : GUI용 일반 폰트
+   - ONE Mobile POP OTF : GUI용 귀여운(?) 폰트

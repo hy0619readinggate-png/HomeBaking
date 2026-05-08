@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 34949bb75ffb3cb49bb03f0501cdf7f2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - mixer: {instanceID: 0}
+  - SFXData: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

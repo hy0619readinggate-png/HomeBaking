@@ -1,0 +1,101 @@
+RR.png
+size:1024,1024
+filter:Linear,Linear
+pma:true
+RR_Hand_P
+bounds:148,606,41,46
+RR_Leg L
+bounds:428,112,79,144
+rotate:90
+RR_Leg R
+bounds:2,75,78,144
+rotate:270
+RR_arm L
+bounds:314,10,61,96
+rotate:90
+RR_arm R
+bounds:148,33,60,97
+RR_body
+bounds:343,182,169,237
+rotate:90
+RR_ear L
+bounds:314,73,108,112
+rotate:90
+RR_ear R
+bounds:194,540,109,112
+RR_eye B 1
+bounds:104,25,50,48
+RR_eye B 2
+bounds:258,19,45,24
+RR_eye B L 1
+bounds:2,358,35,37
+RR_eye B L 2
+bounds:600,31,63,15
+rotate:90
+RR_eye B L 3
+bounds:2,156,49,27
+RR_eye B L 4
+bounds:600,96,53,52
+rotate:90
+RR_eye B R 1
+bounds:264,501,36,37
+RR_eye B R 2
+bounds:407,12,63,15
+RR_eye B R 3
+bounds:61,268,49,27
+RR_eye B R 4
+bounds:600,468,53,52
+rotate:90
+RR_eye Highlight_L
+bounds:157,589,16,15
+RR_eye Highlight_R
+bounds:127,636,16,16
+RR_eye L
+bounds:225,45,86,87
+rotate:90
+RR_eye Line
+bounds:517,23,81,87
+RR_eye R
+bounds:428,29,81,87
+rotate:90
+RR_eyelid H 1
+bounds:2,263,91,57
+rotate:90
+RR_eyelid L 1
+bounds:570,151,91,50
+rotate:270
+RR_eyelid L L
+bounds:557,314,92,51
+rotate:270
+RR_eyelid L R
+bounds:583,560,92,50
+rotate:270
+RR_head H
+bounds:43,132,298,129
+RR_head L
+bounds:339,353,299,259
+rotate:270
+RR_mouth 1
+bounds:156,10,100,21
+RR_mouth 2
+bounds:207,530,55,8
+RR_mouth 3
+bounds:302,482,31,36
+RR_mouth 4
+bounds:582,244,52,62
+RR_mouth 5
+bounds:2,185,76,35
+rotate:90
+RR_mouth 6
+bounds:2,26,100,47
+RR_nose
+bounds:598,408,58,52
+rotate:90
+RR_nose L
+bounds:164,573,14,14
+RR_nose shw
+bounds:335,615,39,37
+RR_pencil
+bounds:305,520,28,132
+RR_tail
+bounds:2,253,363,399

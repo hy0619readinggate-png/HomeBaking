@@ -1,0 +1,26 @@
+tongs.png
+size:2048,256
+filter:Linear,Linear
+pma:true
+jibge_Light L
+bounds:329,11,222,231
+rotate:90
+jibge_Light M
+bounds:981,104,123,129
+jibge_Light S
+bounds:2,60,325,173
+jibge_body B
+bounds:562,4,158,229
+jibge_body F
+bounds:722,103,130,257
+rotate:90
+jibge_eye
+bounds:133,17,73,41
+jibge_eye B 1
+bounds:208,26,61,32
+jibge_eye B 2
+bounds:208,2,61,22
+jibge_wing L
+bounds:2,5,60,53
+jibge_wing R
+bounds:64,12,67,46

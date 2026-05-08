@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: eBook_101_120
+  m_EditorClassIdentifier: 
+  m_GroupName: eBook_101_120
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 6eb889cbb37380e4ba8fdd630b270884
+  m_SerializeEntries: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 1b2385dd7fb34eb4a8408d097abbb138, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: c55472ea0a8985a438c8fa44d2084c67, type: 2}
+    - {fileID: 11400000, guid: fd54d08500c55a74e856d82e37c4da80, type: 2}

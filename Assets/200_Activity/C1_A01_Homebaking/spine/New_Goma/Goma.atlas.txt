@@ -1,0 +1,89 @@
+Goma.png
+size:1024,1024
+filter:Linear,Linear
+pma:true
+GOMA_Body
+bounds:2,159,587,860
+GOMA_Leg L
+bounds:516,158,152,286
+rotate:90
+GOMA_Leg R
+bounds:594,867,152,286
+rotate:90
+GOMA_act1_Apron
+bounds:545,317,590,266
+rotate:90
+GOMA_act1_Glove R
+bounds:747,24,180,180
+rotate:270
+GOMA_act1_hat
+bounds:790,271,208,141
+rotate:90
+GOMA_arm L
+bounds:2,49,142,268
+rotate:270
+GOMA_arm R
+bounds:783,555,142,268
+GOMA_arm R 2
+bounds:871,772,142,176
+GOMA_ear R
+bounds:898,121,118,152
+GOMA_eye B
+bounds:2,908,48,44
+GOMA_eye B L
+bounds:461,158,54,61
+GOMA_eye B R
+bounds:882,958,54,61
+GOMA_eye Highligh R
+bounds:52,937,16,15
+GOMA_eye Highlight L
+bounds:52,937,16,15
+GOMA_eye L
+bounds:933,376,84,103
+GOMA_eye R
+bounds:933,376,84,103
+GOMA_eye Lain L
+bounds:925,480,93,112
+GOMA_eye Lain R
+bounds:927,658,92,112
+GOMA_eye eyelid H L
+bounds:2,954,98,65
+GOMA_eye eyelid H R
+bounds:471,954,98,65
+GOMA_eye eyelid L L
+bounds:585,283,96,61
+GOMA_eye eyelid L R
+bounds:2,226,96,61
+GOMA_mouth
+bounds:87,12,163,39
+rotate:180
+GOMA_mouth 1
+bounds:248,16,163,17
+GOMA_mouth 2
+bounds:745,295,162,40
+rotate:90
+GOMA_mouth 3
+bounds:717,828,154,37
+GOMA_nose
+bounds:472,26,130,176
+rotate:90
+GOMA_nose Highlight
+bounds:529,920,34,33
+m_smile2
+bounds:272,38,198,119
+
+Goma_2.png
+size:1024,1024
+filter:Linear,Linear
+pma:true
+GOMA_Body F
+bounds:171,2,571,843
+GOMA_act1_Glove L
+bounds:2,197,181,180
+rotate:90
+GOMA_arm L 2
+bounds:2,380,142,176
+GOMA_ear L
+bounds:2,693,117,152
+GOMA_nose shadow
+bounds:2,558,121,133

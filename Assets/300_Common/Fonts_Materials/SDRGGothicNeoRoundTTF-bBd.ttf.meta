@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 2e175980a87273749b0dcac71bd26ffa
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - SD RG GothicNeoRound TTF 02 Bd
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 9c7d2c115b449204595b1ba9ba8f8042, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

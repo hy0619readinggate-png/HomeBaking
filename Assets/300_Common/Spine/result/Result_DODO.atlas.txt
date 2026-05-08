@@ -1,0 +1,98 @@
+Result_DODO.png
+size:1024,1024
+filter:Linear,Linear
+pma:true
+DODO_Body
+bounds:192,181,366,342
+rotate:180
+DODO_Body Alt
+bounds:485,502,353,314
+rotate:90
+DODO_Eyebrow L
+bounds:163,354,63,21
+DODO_Eyebrow R
+bounds:398,525,63,20
+DODO_Hand L
+bounds:801,522,58,54
+rotate:90
+DODO_Hand R
+bounds:86,215,58,54
+rotate:90
+DODO_Head
+bounds:2,484,482,371
+DODO_L arm L
+bounds:208,127,65,177
+rotate:270
+DODO_L arm R
+bounds:394,127,65,172
+offsets:0,0,65,177
+rotate:90
+DODO_Leg L
+bounds:2,131,107,210
+rotate:90
+DODO_Leg R
+bounds:86,275,108,210
+rotate:180
+DODO_S arm L
+bounds:104,49,59,80
+DODO_S arm R
+bounds:485,66,60,80
+rotate:90
+DODO_cheek
+bounds:2,213,301,82
+rotate:90
+DODO_eye Highlight_L
+bounds:51,837,18,18
+DODO_eye Highlight_R
+bounds:51,837,18,18
+DODO_eye L
+bounds:170,66,88,64
+DODO_eye R
+bounds:766,97,88,64
+rotate:90
+DODO_eyeB L 1
+bounds:346,68,57,83
+rotate:90
+DODO_eyeB L 2
+bounds:163,379,88,11
+DODO_eyeB L 3
+bounds:787,30,61,65
+DODO_eyeB R 1
+bounds:260,68,57,84
+rotate:90
+DODO_eyeB R 2
+bounds:166,466,88,11
+DODO_eyeB R 3
+bounds:720,33,62,65
+rotate:90
+DODO_eyelid H L
+bounds:381,798,101,57
+DODO_eyelid H R
+bounds:2,72,100,57
+DODO_eyelid L
+bounds:165,394,94,70
+DODO_eyelid L L
+bounds:431,31,94,42
+rotate:90
+DODO_eyelid L R
+bounds:801,426,94,42
+rotate:90
+DODO_eyelid R
+bounds:567,89,93,70
+DODO_face
+bounds:552,161,339,258
+rotate:90
+DODO_mouth 1
+bounds:2,521,31,36
+DODO_mouth 2
+bounds:801,187,52,63
+DODO_mouth 3
+bounds:2,34,77,36
+DODO_mouth 4
+bounds:662,98,102,61
+DODO_mouth 5
+bounds:567,60,151,27
+DODO_nose
+bounds:2,808,47,47
+dodo_smile_eye_2
+bounds:510,469,91,31

@@ -1,0 +1,225 @@
+ALL_LO.png
+size:1024,512
+filter:Linear,Linear
+pma:true
+scale:0.5
+Baro_L_eye
+bounds:383,228,36,40
+Baro_L_eye_highlight
+bounds:236,24,8,8
+Baro_L_eyeball
+bounds:327,91,20,28
+Baro_L_eyeball 2
+bounds:345,162,29,21
+Baro_L_eyelid H
+bounds:539,214,39,28
+Baro_L_eyelid L
+bounds:287,92,39,24
+Baro_L_eyeline
+bounds:984,468,39,43
+Baro_L_hand
+bounds:221,207,32,52
+Baro_L_leg
+bounds:736,294,36,57
+Baro_R_eye
+bounds:985,336,34,37
+rotate:90
+Baro_R_eye_highlight
+bounds:579,234,8,8
+Baro_R_eyeball
+bounds:221,81,19,28
+rotate:90
+Baro_R_eyeball 2
+bounds:886,303,29,21
+rotate:90
+Baro_R_eyelid H
+bounds:511,191,37,27
+rotate:90
+Baro_R_eyelid L
+bounds:907,335,36,22
+Baro_R_eyeline
+bounds:345,228,37,40
+Baro_R_hand
+bounds:221,154,32,52
+Baro_R_leg
+bounds:948,360,36,57
+Baro_body
+bounds:795,358,152,153
+Baro_eyebrow
+bounds:218,23,57,17
+rotate:90
+Baro_hat
+bounds:1,9,135,76
+Baro_mouth
+bounds:181,1,63,21
+Baro_mouth 2
+bounds:344,269,56,11
+Baro_mouth 3
+bounds:736,287,52,6
+Baro_mouth 4
+bounds:515,269,54,11
+Baro_mouth 5
+bounds:541,243,46,13
+Baro_mouth 6
+bounds:320,211,48,24
+rotate:90
+Baro_noes_highlight
+bounds:588,249,7,7
+Baro_nose_outline
+bounds:348,90,34,30
+Baro_nose_shadow
+bounds:646,262,26,21
+Chello_L_Leg
+bounds:184,197,36,57
+Chello_L_eye
+bounds:380,187,36,40
+Chello_L_eye_highlight
+bounds:539,170,8,8
+Chello_L_eyeball
+bounds:596,248,20,28
+rotate:90
+Chello_L_eyelashes
+bounds:886,291,21,11
+Chello_L_eyelid H
+bounds:347,121,40,27
+rotate:90
+Chello_L_eyelid L
+bounds:485,188,39,25
+rotate:90
+Chello_L_eyeline
+bounds:984,424,39,43
+Chello_L_hand
+bounds:254,207,32,52
+Chello_R_Leg
+bounds:184,139,36,57
+Chello_R_eye
+bounds:539,179,34,37
+rotate:90
+Chello_R_eye_highlight
+bounds:579,225,8,8
+Chello_R_eyeball
+bounds:511,170,20,27
+rotate:90
+Chello_R_eyelashes
+bounds:674,249,21,12
+Chello_R_eyelid H
+bounds:985,371,38,24
+Chello_R_eyelid L
+bounds:795,332,37,25
+Chello_R_eyeline
+bounds:420,228,36,40
+Chello_R_hand
+bounds:221,101,32,52
+Chello_body
+bounds:645,352,149,159
+Chello_mouth
+bounds:280,260,63,20
+Chello_mouth 2
+bounds:401,269,56,11
+Chello_mouth 3
+bounds:1,2,52,6
+Chello_mouth 4
+bounds:570,269,54,11
+Chello_mouth 5
+bounds:492,229,46,14
+Chello_mouth 6
+bounds:320,162,48,24
+rotate:90
+Chello_mouth_eff
+bounds:452,186,32,41
+Chello_mouth_eff 2
+bounds:254,108,32,45
+Chello_nose
+bounds:823,297,34,30
+rotate:90
+Chello_nose_highlight
+bounds:106,1,7,7
+Chello_nose_shadow
+bounds:673,262,26,21
+Chello_ribbon
+bounds:137,9,76,43
+rotate:90
+Millo_L_eye
+bounds:791,294,31,37
+Millo_L_eye_highlight
+bounds:548,170,8,8
+Millo_L_eyeball
+bounds:646,243,18,27
+rotate:90
+Millo_L_eyeball 2
+bounds:700,263,27,20
+Millo_L_eyelid H
+bounds:948,336,36,23
+Millo_L_eyelid L
+bounds:871,333,35,24
+Millo_L_eyeline
+bounds:417,187,34,40
+Millo_L_hand
+bounds:254,154,32,52
+Millo_L_leg
+bounds:184,81,36,57
+Millo_R_eye
+bounds:457,228,34,40
+Millo_R_eye_highlight
+bounds:579,216,8,8
+Millo_R_eyeball
+bounds:908,293,19,28
+rotate:90
+Millo_R_eyeball 2
+bounds:625,252,28,20
+rotate:90
+Millo_R_eyelid H
+bounds:985,396,38,27
+Millo_R_eyelid L
+bounds:833,333,37,24
+Millo_R_eyeline
+bounds:287,117,37,43
+Millo_R_hand
+bounds:287,207,32,52
+Millo_R_leg
+bounds:181,23,36,57
+Millo_Tool
+bounds:948,418,35,93
+Millo_body
+bounds:1,86,182,168
+Millo_eyebrow
+bounds:773,294,57,17
+rotate:90
+Millo_hat
+bounds:645,284,90,67
+Millo_mouth
+bounds:215,260,64,20
+Millo_mouth 2
+bounds:458,269,56,11
+Millo_mouth 3
+bounds:54,2,51,6
+Millo_mouth 4
+bounds:541,257,54,11
+Millo_mouth 5
+bounds:236,33,47,13
+rotate:90
+Millo_mouth 6
+bounds:492,244,48,24
+Millo_mouth_eff
+bounds:287,161,32,45
+Millo_mouth_eff 2
+bounds:245,1,31,41
+rotate:90
+Millo_nose
+bounds:854,302,31,30
+Millo_nose_highlight
+bounds:114,1,7,7
+Millo_nose_shadow
+bounds:908,313,28,21
+eyelid_UP
+bounds:345,184,43,34
+rotate:90
+eyelid_down
+bounds:325,120,41,21
+rotate:90
+popcorn box2
+bounds:215,281,214,230
+popcorn box3
+bounds:430,281,214,230
+popcorn box4
+bounds:1,255,213,256

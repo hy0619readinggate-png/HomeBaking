@@ -1,0 +1,301 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2175518728190119973
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4338267833095508825}
+  - component: {fileID: 2550267072395103027}
+  - component: {fileID: -5976765248087438860}
+  - component: {fileID: 1831181951607738463}
+  - component: {fileID: 2341158421325431310}
+  - component: {fileID: 8694862231618117199}
+  - component: {fileID: -7716749533957135451}
+  - component: {fileID: 2875541899224179547}
+  - component: {fileID: 1065032776232587267}
+  - component: {fileID: -325827997423662917}
+  - component: {fileID: 8893845493373961183}
+  - component: {fileID: 3173999341580554892}
+  m_Layer: 0
+  m_Name: AddressableMGR
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4338267833095508825
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2175518728190119973}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2550267072395103027
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2175518728190119973}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40ec3720c12a9414381df77db895220e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  hosts:
+  - ServerType: 0
+    URL: https://mobile-app.gohidodo.com/production
+  - ServerType: 1
+    URL: https://mobile-app.dev.gohidodo.com/test
+  defaultHostType: 0
+  profileRemoteHostURL: https://mobile-app.dev.gohidodo.com
+--- !u!114 &-5976765248087438860
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2175518728190119973}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0cf6d15e1d0ec3543b624eb7a487ceb5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  tablesAR:
+  - m_AssetGUID: 003f993f5e4350645afc23828d6b51c8
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  - m_AssetGUID: 977889b1af2075b47b929fac2b430548
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  - m_AssetGUID: b41eb4db8996db046be0e35b732f2bfa
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  - m_AssetGUID: dd7f729b38eb94248b5dbaf554d0fbf3
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+--- !u!114 &1831181951607738463
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2175518728190119973}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dded4b78b2e1bab4689cd3ed9013fcae, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  tablesAR:
+  - m_AssetGUID: a52fa4cb3ae1be74492be4cc42da1227
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  - m_AssetGUID: dac8aaa2a1c460940b6a5263e9645887
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  - m_AssetGUID: 1bd492fa61d2f63488f420d3d90dc2c2
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  - m_AssetGUID: 3b6d3e0e4568f734b829456c2c4799b1
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+--- !u!114 &2341158421325431310
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2175518728190119973}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3fde7d28b9dcdd5499f289daeb4e1c95, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  tableAR:
+    m_AssetGUID: f77370fd03c01d54392537c4a834ecd3
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+--- !u!114 &8694862231618117199
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2175518728190119973}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33842fe632c47424ca0ad6aa6429e173, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  tableAR:
+    m_AssetGUID: d6a545c2091bd5a4cab97558cae48205
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+--- !u!114 &-7716749533957135451
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2175518728190119973}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbbf71f39b6150346b5da23e449bf82d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &2875541899224179547
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2175518728190119973}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 850aafa1c17e1f644a7d0bd58a5e6fbc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &1065032776232587267
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2175518728190119973}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 19e4092affcad83429023a9ed4acac46, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  testerTableDevServerAR:
+    m_AssetGUID: 37e7da70a7cb563478d815dfd471832e
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  testerTableTestServerAR:
+    m_AssetGUID: ad30d818c9fc0fc479423f696bfbdce0
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+--- !u!114 &-325827997423662917
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2175518728190119973}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 63b99391cb14cd942b0c81d41e102dea, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  movieTableAR:
+    m_AssetGUID: d6a545c2091bd5a4cab97558cae48205
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  ebookTableAR:
+    m_AssetGUID: f77370fd03c01d54392537c4a834ecd3
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  activityCategoryTableAR:
+    m_AssetGUID: dfc84b32751e9a345b9a8758e1a1fb88
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  activityTablesAR:
+  - m_AssetGUID: 003f993f5e4350645afc23828d6b51c8
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  - m_AssetGUID: 977889b1af2075b47b929fac2b430548
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  - m_AssetGUID: b41eb4db8996db046be0e35b732f2bfa
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  - m_AssetGUID: dd7f729b38eb94248b5dbaf554d0fbf3
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  gameTablesAR:
+  - m_AssetGUID: a52fa4cb3ae1be74492be4cc42da1227
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  - m_AssetGUID: dac8aaa2a1c460940b6a5263e9645887
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  - m_AssetGUID: 1bd492fa61d2f63488f420d3d90dc2c2
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  - m_AssetGUID: 3b6d3e0e4568f734b829456c2c4799b1
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  aistudioTableAR:
+    m_AssetGUID: 79a8f16d69a14aa4dbd3cd6b31429c6d
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+--- !u!114 &8893845493373961183
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2175518728190119973}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 26b07045ee716b1478ef1922b5788bd6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  tableAR:
+    m_AssetGUID: fa8bcffdddb2fc3448e17b5e13c24f4f
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+--- !u!114 &3173999341580554892
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2175518728190119973}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42d87c7c207f5424db54d1cfb265d5eb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  tableAR:
+    m_AssetGUID: 5ab791d7a71161240a16a2725b07f628
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0

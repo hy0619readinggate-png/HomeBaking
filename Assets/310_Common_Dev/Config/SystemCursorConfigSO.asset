@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f576efd9483f1443ae7639a09e0ee17, type: 3}
+  m_Name: SystemCursorConfigSO
+  m_EditorClassIdentifier: 
+  enableSystemCursor: 0
+  normalCursorTEX: {fileID: 2800000, guid: ac279c088448cc24b82c70b128997ee7, type: 3}
+  pressCursorTEX: {fileID: 2800000, guid: b361f47f913e3264fbbef11ee8f2cbba, type: 3}
+  hotSpot: {x: 35, y: 35}

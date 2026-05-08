@@ -1,0 +1,90 @@
+TR.png
+size:1024,1024
+filter:Linear,Linear
+pma:true
+TORI_ Nose
+bounds:201,721,23,16
+TORI_Hand_P
+bounds:358,360,42,46
+rotate:90
+TORI_Head
+bounds:364,499,244,238
+TORI_Leg L
+bounds:294,492,61,101
+offsets:0,0,61,102
+TORI_Leg R
+bounds:231,480,61,102
+TORI_arm L
+bounds:357,456,105,82
+rotate:180
+TORI_arm L H
+bounds:366,404,72,50
+TORI_arm L L
+bounds:665,437,72,56
+TORI_arm R
+bounds:141,450,106,82
+rotate:180
+TORI_arm R H
+bounds:136,398,71,50
+TORI_arm R L
+bounds:528,446,72,56
+TORI_body
+bounds:606,572,131,165
+TORI_body F
+bounds:2,471,114,149
+rotate:90
+TORI_eye B L 1
+bounds:664,386,49,62
+rotate:90
+TORI_eye B L 2
+bounds:602,413,60,63
+TORI_eye B L 3
+bounds:2,369,54,26
+TORI_eye B R 1
+bounds:294,385,47,62
+rotate:90
+TORI_eye B R 2
+bounds:229,416,61,63
+rotate:90
+TORI_eye B R 3
+bounds:132,361,53,26
+TORI_eye Highlight L
+bounds:2,722,16,15
+TORI_eye Highlight R
+bounds:2,722,16,15
+TORI_eye L
+bounds:464,427,56,70
+TORI_eye R
+bounds:294,434,56,70
+rotate:90
+TORI_eyelid H L
+bounds:440,379,68,46
+TORI_eyelid H R
+bounds:87,371,68,46
+rotate:270
+TORI_eyelid L
+bounds:665,495,61,75
+TORI_eyelid L L
+bounds:585,373,64,38
+TORI_eyelid L R
+bounds:585,373,64,38
+TORI_eyelid R
+bounds:602,478,61,75
+TORI_hat
+bounds:2,521,368,216
+TORI_mouth 1
+bounds:131,723,68,14
+TORI_mouth 2
+bounds:406,365,31,37
+TORI_mouth 3
+bounds:522,392,52,63
+rotate:90
+TORI_mouth 4
+bounds:209,381,70,33
+TORI_mouth 5
+bounds:2,397,84,42
+TORI_mouth 6
+bounds:2,593,54,8
+TORI_pencil
+bounds:2,441,28,132
+rotate:90

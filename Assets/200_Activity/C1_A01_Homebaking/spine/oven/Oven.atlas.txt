@@ -1,0 +1,47 @@
+Oven.png
+size:2048,2048
+filter:Linear,Linear
+pma:true
+Oven_Door1 B
+bounds:1582,522,813,434
+rotate:90
+Oven_Door1 F
+bounds:1145,522,813,435
+rotate:90
+Oven_Door2 B
+bounds:762,297,780,223
+Oven_Door2 F
+bounds:762,74,780,221
+Oven_Doorknob B
+bounds:356,85,210,89
+Oven_Doorknob F
+bounds:356,10,193,73
+Oven_Doorknob p
+bounds:551,19,158,42
+Oven_Doorknob_eff
+bounds:192,8,46,32
+Oven_body
+bounds:2,522,1141,1013
+Oven_eff  2
+bounds:2,2,188,172
+Oven_eff 1
+bounds:1544,46,118,99
+Oven_eff 3
+bounds:568,63,132,111
+Oven_eff 4
+bounds:1145,1354,214,181
+Oven_eff 5
+bounds:192,42,162,132
+Oven_eff 6
+bounds:1544,147,444,373
+Oven_eye 1
+bounds:1361,1461,437,74
+Oven_eye 2
+bounds:1361,1337,458,51
+Oven_glass
+bounds:2,176,758,344
+Oven_inside
+bounds:1361,1390,468,69
+Oven_time
+bounds:1664,46,96,99
+offsets:2,2,100,104
