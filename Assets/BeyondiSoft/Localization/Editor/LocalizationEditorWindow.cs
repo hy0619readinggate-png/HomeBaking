@@ -223,8 +223,8 @@ public class LocalizationEditorWindow : EditorWindow
     // 프로젝트에 맞춰 수정한 것임.
     // 20230209, 박진형
     */
-    const string CLIENT_ID = "703836106378-qtjnpanghmmeua4rpskod770og4arqji.apps.googleusercontent.com";
-    const string CLIENT_SECRET = "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";
+    const string CLIENT_ID = "";
+    const string CLIENT_SECRET = "";
     string[] Scopes = { SheetsService.Scope.SpreadsheetsReadonly };
     const string appName = "BeyondiLocalization";
     string spreadSheetKey = "";
